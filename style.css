@@ -1,0 +1,40 @@
+body {
+  background-color: orange ;
+}
+
+#nameTitle {
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+
+h3 {
+  background-color: Tomato;
+  color: white;
+  padding: 5px;
+
+}
+
+#table td,
+#table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#table tr:hover {
+  background-color: #ddd;
+}
+
+.quote {
+  text-align: center;
+  color: Black;
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+
+div.pic {
+  margin: 5px;
+  float: middle;
+
+}
